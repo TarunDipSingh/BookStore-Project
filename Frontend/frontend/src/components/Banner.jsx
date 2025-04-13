@@ -18,7 +18,7 @@ export default function Banner() {
                         <input type="email" placeholder="mail@site.com" required />
                     </label>
                     </div>
-                    <button className="btn bg-green-500 text-white mt-6">Send</button>
+                    <button className="btn bg-green-500 text-white mt-6">Get Started</button>
                 </div>
                 <div className='order-1 w-full md:w-1/2'>
                 <img src={banner} className='w-100 h-100 md:h-150 md:w-150' alt="" />
